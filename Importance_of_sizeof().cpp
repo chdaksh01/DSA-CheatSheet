@@ -19,3 +19,12 @@
       cout<<rows<<" "<<cols<<endl;
       return 0;
   }
+
+// !! IMPORTANT - This doesn't work actually!!
+
+// We need to use this
+
+{
+  int rows = matrix.size();
+  int cols = matrix[0].size();
+}
