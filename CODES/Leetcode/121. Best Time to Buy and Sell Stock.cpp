@@ -3,6 +3,8 @@
 
 //https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
+// Time - O(n)
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
