@@ -1,0 +1,14 @@
+      (left) (node) (right)
+        |              |
+      (node)         (node)
+
+
+
+VALUE OF A NODE IS GIVEN AS:
+
+**IMP
+node->data
+  or
+node->val
+
+
