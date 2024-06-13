@@ -3,6 +3,9 @@
 
 // https://leetcode.com/problems/number-of-islands/
 
+// T.C. = O(N^2) + O(5N^2) = O(N^2)
+// -> TC analysis is important
+
 
 class Solution {
 public:
