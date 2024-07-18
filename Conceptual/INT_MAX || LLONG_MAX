@@ -1,0 +1,4 @@
+to use INFINITY
+use INT_MAX
+or rather
+LLONG_MAX
