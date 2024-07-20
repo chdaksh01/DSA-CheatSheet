@@ -2,3 +2,8 @@ to use INFINITY
 use INT_MAX
 or rather
 LLONG_MAX
+
+for the minimum number
+INT_MIN
+or
+LLONG_MIN
